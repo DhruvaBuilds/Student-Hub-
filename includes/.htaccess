@@ -1,0 +1,2 @@
+# Nobody should be able to open include files directly from the browser
+Require all denied

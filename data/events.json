@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "title": "Mid-Semester Examination",
+        "date": "2026-10-15",
+        "category": "Exam",
+        "location": "Block A"
+    },
+    {
+        "id": 2,
+        "title": "Web Development Workshop",
+        "date": "2026-10-18",
+        "category": "Workshop",
+        "location": "Computer Lab 1"
+    },
+    {
+        "id": 3,
+        "title": "Sports Day",
+        "date": "2026-10-20",
+        "category": "Sports",
+        "location": "College Ground"
+    },
+    {
+        "id": 4,
+        "title": "Java Programming Seminar",
+        "date": "2026-10-22",
+        "category": "Seminar",
+        "location": "Seminar Hall"
+    },
+    {
+        "id": 5,
+        "title": "Project Submission",
+        "date": "2026-10-25",
+        "category": "Academic",
+        "location": "Department Office"
+    },
+    {
+        "id": 6,
+        "title": "Coding Competition",
+        "date": "2026-10-28",
+        "category": "Competition",
+        "location": "Computer Lab 2"
+    },
+    {
+        "id": 7,
+        "title": "Career Guidance Session",
+        "date": "2026-11-01",
+        "category": "Seminar",
+        "location": "Seminar Hall"
+    },
+    {
+        "id": 8,
+        "title": "Cultural Festival",
+        "date": "2026-11-05",
+        "category": "Cultural",
+        "location": "College Auditorium"
+    },
+    {
+        "id": 9,
+        "title": "Database Workshop",
+        "date": "2026-11-08",
+        "category": "Workshop",
+        "location": "Computer Lab 1"
+    },
+    {
+        "id": 10,
+        "title": "Internal Assessment",
+        "date": "2026-11-10",
+        "category": "Exam",
+        "location": "Block B"
+    },
+    {
+        "id": 11,
+        "title": "Hackathon",
+        "date": "2026-11-15",
+        "category": "Competition",
+        "location": "Innovation Lab"
+    },
+    {
+        "id": 12,
+        "title": "Computer Networks Seminar",
+        "date": "2026-11-18",
+        "category": "Seminar",
+        "location": "Seminar Hall"
+    },
+    {
+        "id": 13,
+        "title": "Annual Sports Meet",
+        "date": "2026-11-22",
+        "category": "Sports",
+        "location": "College Ground"
+    },
+    {
+        "id": 14,
+        "title": "Final Project Presentation",
+        "date": "2026-11-25",
+        "category": "Academic",
+        "location": "Block A"
+    },
+    {
+        "id": 15,
+        "title": "Semester End Examination",
+        "date": "2026-12-01",
+        "category": "Exam",
+        "location": "Main Building"
+    }
+]

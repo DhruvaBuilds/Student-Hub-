@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        :root {
+
+        --primary-color: #1e3a8a;
+        --secondary-color: #2563eb;
+        --accent-color: #facc15;
+        --background-color: #f4f7fb;
+        --text-color: #333333;
+        --white: #ffffff;
+        --border-radius: 12px;
+        --transition: 0.3s ease;
+        --shadow: 0 5px 15px rgba(0,0,0,0.08);
+
+        }
+
+        .headings{
+            text-align: center;
+            color:brown;
+        }
+        
+        body {
+
+            
+            background:beige;
+            color:brown;
+            line-height: 1.6;
+
+        }
+
+        ul {
+
+            list-style: none;
+
+        }
+
+        .navbar {
+
+            background:burlywood;
+            color:white ;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 18px 60px;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+
+        }
+
+        .logo {
+
+            font-size: 1.6rem;
+            font-weight: 600;
+
+        }
+
+        .btn {
+
+            padding: 10px 20px;
+
+            border-radius: 8px;
+
+            font-weight: 500;
+
+            
+
+        }
+
+        .form-group {
+       margin-bottom: 15px;
+   }
+
+   .form-group label {
+       display: block;
+       margin-bottom: 5px;
+   }
+
+   .form-group input, .form-group select {
+       width: 100%;
+       padding: 10px;
+       border: 1px solid #ccc;
+       border-radius: 5px;
+   }
+
+   .form-group button {
+       width: 100%;
+       padding: 10px;
+       background-color: #4CAF50;
+       color: white;
+       border: none;
+       border-radius: 5px;
+       cursor: pointer;
+       transition: background-color 0.3s;
+   }
+
+   .form-group button:hover {
+       background-color: #45a049;
+   }
+
+
+    </style>
+
+</head>
+<body>
+    <h1 class="headings">Student Event & Help Desk </h1>
+    <section>
+    <div class="navbar">
+      <ul>
+        <li>Home</li>
+        <li>Events</li>
+        <li>FAQ</li>
+        <li>Registration</li>
+        <li>Contact</li>
+      </ul>
+    </div>
+
+    <div class="btn">
+            <button>Logout</button>
+            <button>signin</button>
+
+    </div>
+    </section>
+    <section id="registration">
+       <h2>Register for an Event</h2>
+       <form action="/register" method="post">
+           <div class="form-group">
+               <label for="name">Student Name:</label>
+               <input type="text" id="name" name="name" required>
+           </div>
+           <div class="form-group">
+               <label for="id">Student ID:</label>
+               <input type="text" id="id" name="id" required>
+           </div>
+           <div class="form-group">
+               <label for="email">Email:</label>
+               <input type="email" id="email" name="email" required>
+           </div>
+           <div class="form-group">
+               <label for="mobile">Mobile Number:</label>
+               <input type="tel" id="mobile" name="mobile" required>
+           </div>
+           <div class="form-group">
+               <label for="event">Select Event:</label>
+               <select id="event" name="event" required>
+                   <option value="">Choose an event</option>
+                   <option value="technical-seminar">Technical Seminar</option>
+                   <option value="hackathon">Hackathon</option>
+                   <option value="web-development-workshop">Web Development Workshop</option>
+                   <option value="project-exhibition">Project Exhibition</option>
+               </select>
+           </div>
+           <div class="form-group">
+               <label for="gender">Gender:</label>
+               <input type="radio" id="male" name="gender" value="male">
+               <label for="male">Male</label>
+               <label for="female">Female</label>
+               <input type="radio" id="other" name="gender" value="other">
+           </div>
+           <button type="submit">Register</button>
+           <button type="reset">Reset</button>
+       </form>
+   </section>
+   <section id="faq">
+       <h2>FAQ Section</h2>
+       <div class="faq-item">
+           <h3>How can I register for an event?</h3>
+           <p>Visit the registration page and select the event you are interested in.</p>
+       </div>
+       <div class="faq-item">
+           <h3>Is event registration free?</h3>
+           <p>Yes, all events are free of cost.</p>
+       </div>
+       <div class="faq-item">
+           <h3>Where will the event be conducted?</h3>
+           <p>Check the website for event details.</p>
+       </div>
+       <div class="faq-item">
+           <h3>Can I participate in more than one event?</h3>
+           <p>No, you can only participate in one event at a time.</p>
+       </div>
+   </section>
+
+
+</body>
+</html>

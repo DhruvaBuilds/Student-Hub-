@@ -1,0 +1,10 @@
+# StudentHub – Apache settings (works with XAMPP: AllowOverride All is the default)
+Options -Indexes
+DirectoryIndex index.php
+
+# Hide hidden files/folders such as .git
+<FilesMatch "^\.(git|env|htaccess|gitignore)">
+    Require all denied
+</FilesMatch>
+RedirectMatch 404 /\.git
+

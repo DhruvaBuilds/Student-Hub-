@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Rahul Sharma",
+        "email": "rahul.sharma@email.com",
+        "course": "B.Tech Computer Engineering",
+        "year": 2
+    },
+    {
+        "id": 2,
+        "name": "Priya Patel",
+        "email": "priya.patel@email.com",
+        "course": "B.Tech Information Technology",
+        "year": 2
+    },
+    {
+        "id": 3,
+        "name": "Amit Shah",
+        "email": "amit.shah@email.com",
+        "course": "B.Tech Computer Science",
+        "year": 3
+    },
+    {
+        "id": 4,
+        "name": "Neha Verma",
+        "email": "neha.verma@email.com",
+        "course": "B.Tech Computer Engineering",
+        "year": 1
+    },
+    {
+        "id": 5,
+        "name": "Karan Mehta",
+        "email": "karan.mehta@email.com",
+        "course": "B.Tech Information Technology",
+        "year": 3
+    },
+    {
+        "id": 6,
+        "name": "Sneha Desai",
+        "email": "sneha.desai@email.com",
+        "course": "B.Tech Electronics & Communication",
+        "year": 2
+    },
+    {
+        "id": 7,
+        "name": "Vikram Singh",
+        "email": "vikram.singh@email.com",
+        "course": "B.Tech Computer Science",
+        "year": 4
+    },
+    {
+        "id": 8,
+        "name": "Anjali Gupta",
+        "email": "anjali.gupta@email.com",
+        "course": "B.Tech Computer Engineering",
+        "year": 2
+    },
+    {
+        "id": 9,
+        "name": "Rohan Joshi",
+        "email": "rohan.joshi@email.com",
+        "course": "B.Tech Information Technology",
+        "year": 1
+    },
+    {
+        "id": 10,
+        "name": "Pooja Nair",
+        "email": "pooja.nair@email.com",
+        "course": "B.Tech Computer Science",
+        "year": 3
+    },
+    {
+        "id": 11,
+        "name": "Arjun Reddy",
+        "email": "arjun.reddy@email.com",
+        "course": "B.Tech Electronics & Communication",
+        "year": 4
+    },
+    {
+        "id": 12,
+        "name": "Divya Iyer",
+        "email": "divya.iyer@email.com",
+        "course": "B.Tech Computer Engineering",
+        "year": 3
+    },
+    {
+        "id": 13,
+        "name": "Manish Kumar",
+        "email": "manish.kumar@email.com",
+        "course": "B.Tech Information Technology",
+        "year": 2
+    },
+    {
+        "id": 14,
+        "name": "Kavya Menon",
+        "email": "kavya.menon@email.com",
+        "course": "B.Tech Computer Science",
+        "year": 1
+    },
+    {
+        "id": 15,
+        "name": "Harsh Trivedi",
+        "email": "harsh.trivedi@email.com",
+        "course": "B.Tech Computer Engineering",
+        "year": 4
+    },
+    {
+        "id": 16,
+        "name": "Ishita Bansal",
+        "email": "ishita.bansal@email.com",
+        "course": "B.Tech Electronics & Communication",
+        "year": 1
+    },
+    {
+        "id": 17,
+        "name": "Nikhil Chauhan",
+        "email": "nikhil.chauhan@email.com",
+        "course": "B.Tech Information Technology",
+        "year": 3
+    },
+    {
+        "id": 18,
+        "name": "Meera Kapoor",
+        "email": "meera.kapoor@email.com",
+        "course": "B.Tech Computer Science",
+        "year": 2
+    },
+    {
+        "id": 19,
+        "name": "Sahil Ansari",
+        "email": "sahil.ansari@email.com",
+        "course": "B.Tech Computer Engineering",
+        "year": 2
+    },
+    {
+        "id": 20,
+        "name": "Tanvi Kulkarni",
+        "email": "tanvi.kulkarni@email.com",
+        "course": "B.Tech Information Technology",
+        "year": 4
+    }
+]

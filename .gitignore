@@ -1,0 +1,12 @@
+# runtime data
+storage/*.json
+storage/*.csv
+storage/*.log
+uploads/posters/*
+!uploads/posters/.gitkeep
+!uploads/posters/.htaccess
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
